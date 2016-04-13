@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[red test]]></title>
         <description><![CDATA[red test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/red-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 06:32:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 06:32:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/red-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IamA Tom Ruegger creator of "Animaniacs" AMA! * /r/IAmA]]></title>
+            <description><![CDATA[<article><h1>IamA Tom Ruegger creator of "Animaniacs" AMA! * /r/IAmA</h1><p>Hi I'm Tom Ruegger -- fourteen-time Emmy-winning animation writer/producer and creator of the series "Animaniacs" ("There's baloney in our...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/IAmA/comments/4ehhxz/iama_tom_ruegger_creator_of_animaniacs_ama/</link>
+            <guid isPermaLink="false">2a4c296d-fda1-42d0-8b3c-ee9c362220e8</guid>
+            <pubDate>Wed, 13 Apr 2016 06:32:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ELI5:How does rabies make it's victims 'afraid' of water? * /r/explainlikeimfive]]></title>
             <description><![CDATA[<article><h1>ELI5:How does rabies make it's victims 'afraid' of water? * /r/explainlikeimfive</h1><p>Curious as to how rabies is able to make those infected with it 'afraid' of water to the point where even holding a glass of it causes negatives...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
